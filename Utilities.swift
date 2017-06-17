@@ -1,6 +1,5 @@
 //
 //  Utilties.swift
-//  ASB
 //
 //  Created by Trip Creighton on 1/9/17.
 //  Copyright © 2017 Trip Creighton. All rights reserved.
